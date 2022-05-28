@@ -11,6 +11,7 @@ it with one or two numerical arguments which determine size of puzzle.
 In android version you can determine size of puzzle with clicking on
 small 'S' button.
 
+I use https://github.com/stevedonovan/AndroLua to run it in android
 In android I placed whole directory as is and played it from there.
 In alshell I issued these commands:
 > .m game_15.15lib
